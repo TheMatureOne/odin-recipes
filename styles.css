@@ -1,0 +1,43 @@
+
+* {
+    padding:1;
+    margin: 0;
+    background-color: #0B0C10;
+}
+
+h1 {
+    color:#66FCF1;
+    text-align: center;
+    padding: 10px 0 10px 0;
+}
+
+h2 {
+    color:#45A29E;
+    padding: 5px 0 20px 0;
+}
+
+p, ul li, ol li {
+    color:#C5C6C7;
+}
+
+a {
+    text-decoration: none;
+    color:#C5C6C7;
+    font-weight: bold;
+
+}
+
+img {
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.link {
+margin-left:45%;
+margin-right:auto;
+text-align: center;    
+letter-spacing: 2.2px;
+line-height: 1.4;
+
+}
